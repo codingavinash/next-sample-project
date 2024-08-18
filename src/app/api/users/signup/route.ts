@@ -42,6 +42,3 @@ export async function POST(request : NextRequest) {
         return NextResponse.json({ error : error.message }, {status: 500})
     }
 }
-
-// vishwakarmaavinash299
-// 5xvJGrHBuX6QNKnX
